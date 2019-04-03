@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpServerCodec"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpObjectAggregator"/>
+<fullyQualifiedTypeName name="io.netty.handler.stream.ChunkedWriteHandler"/>
+<fullyQualifiedTypeName name="io.netty.channel.SimpleChannelInboundHandler"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.FullHttpRequest"/>
+<fullyQualifiedTypeName name="java.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="handler.HttpHandler"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpResponse"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.DefaultHttpResponse"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpResponseStatus"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpHeaders.Values"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpHeaders"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpHeaders.Names"/>
+<fullyQualifiedTypeName name="io.netty.handler.stream.ChunkedNioFile"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.LastHttpContent"/>
+<fullyQualifiedTypeName name="io.netty.channel.ChannelFuture"/>
+<fullyQualifiedTypeName name="io.netty.channel.ChannelFutureListener"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler"/>
+<fullyQualifiedTypeName name="handler.WebSocketHandler"/>
+</qualifiedTypeNameHistroy>

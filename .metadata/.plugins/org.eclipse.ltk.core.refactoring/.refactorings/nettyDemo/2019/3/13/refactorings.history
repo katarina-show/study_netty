@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.dongnao&apos; to &apos;com.sjw&apos;&#x0D;&#x0A;- Original project: &apos;nettyDemo&apos;&#x0D;&#x0A;- Original element: &apos;nettyDemo/src/com.dongnao&apos;&#x0D;&#x0A;- Renamed element: &apos;nettyDemo/src/com.sjw&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.dongnao&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.dongnao" name="com.sjw" qualified="false" references="true" stamp="1553485085452" textual="false" version="1.0"/>
+</session>
